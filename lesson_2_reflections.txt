@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+It gives you a message that repo has been initialised and it is required to take benefits of git.
+
