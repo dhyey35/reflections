@@ -19,3 +19,6 @@ git log shows all the commits till date along with commit id and message while g
 
 How might using version control make you more confident to make changes that could break something?
 you can always go back !!
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I will use git for all of my projects now onwards.
