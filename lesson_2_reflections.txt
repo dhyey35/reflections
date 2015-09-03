@@ -12,3 +12,9 @@ Branches will help when we want to divert our project and make big changes and n
 
 How do the diagrams help you visualize the branch structure?
 You can easily come to know which commits are in which branch and a commit can be accessed or not.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The commits in branch become one and in diagram we show a new commit with arrows to both branches because commits from both are included.
+
