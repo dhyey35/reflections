@@ -18,3 +18,11 @@ What is the result of merging two branches together? Why do we represent it in t
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The commits in branch become one and in diagram we show a new commit with arrows to both branches because commits from both are included.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic:
+pros-We dont have to change code , git takes care of it.
+cons-Code might break or cause bugs .
+MANUAL:
+pros-No surprise bugs or code breakdown as programmer manually merges and knows what he is doing.
+cons- You have to take time and do it.
+
