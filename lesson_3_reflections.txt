@@ -9,3 +9,7 @@ Forks means copying someone's repo directly on github and their name is shown on
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 We can edit and execute offline and make changes.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would use a cloud service like dropbox and everything execpt complex commands would be harder.
+
